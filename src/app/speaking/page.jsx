@@ -24,16 +24,16 @@ function Appearance({ title, description, event, cta, href }) {
 }
 
 export const metadata = {
-  title: 'Speaking',
+  title: 'Blog',
   description:
-    'I’ve spoken at events all around the world and been interviewed for many podcasts.',
+    'I’ve spoken at events all around the world and worked with various people.',
 }
 
 export default function Speaking() {
   return (
     <SimpleLayout
       title="I’ve spoken at events all around the world and been interviewed for many podcasts."
-      intro="One of my favorite ways to share my ideas is live on stage, where there’s so much more communication bandwidth than there is in writing, and I love podcast interviews because they give me the opportunity to answer questions instead of just present my opinions."
+      intro="Two of my favorite ways to share ideas are conferences and podcasts."
     >
       <div className="space-y-20">
         <SpeakingSection title="Conferences">
