@@ -39,7 +39,7 @@ function MailIcon(props) {
 export const metadata = {
   title: 'About',
   description:
-    'I’m Spencer Sharp. I live in New York City, where I design the future.',
+    'Prevention is better than intervention.',
 }
 
 export default function About() {
@@ -64,7 +64,7 @@ export default function About() {
           <p>
             Dr. Harold uses her expertise to optimize health habits and applies hormone therapy and anti-aging practices to ensure
             patient health and wellness. She focuses on helping her patients plan for longevity with lifestyle adjustments.
-            She advocates for appropriate nutrition, exercise regimen and supplementation based on the patient's goals. 
+            She advocates for appropriate nutrition, exercise regimen and supplementation based on the patients goals. 
             Her lifetime commitment to functional medicine, is consistently applied in her clinical practice and research work.
             </p>
             <p>
